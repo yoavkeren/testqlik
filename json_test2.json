@@ -1,0 +1,41 @@
+[
+{
+"data_type":"letter",
+"letter_id":12,
+"writer_id":5543,
+"text":"hello world!",
+"customer_count":420,
+"responses":[154]
+},
+{
+"data_type":"people",
+"person_id":5543,
+"name":"Phil",
+"eye_color":"green",
+"favorite_movie":"Trainspotting",
+"friends":[4443, 5443, 2343]
+},
+{
+"data_type":"people",
+"person_id":4443,
+"name":"John",
+"eye_color":"Black",
+"favorite_movie":"Godfather",
+"friends":[5543]
+},
+{
+"data_type":"people",
+"person_id":5544,
+"name":"Smith",
+"eye_color":"Blue",
+"favorite_movie":"Titanic",
+"friends":[5543]
+},
+{
+"data_type":"responses",
+"response_id":154,
+"response_to_letter":12,
+"writer_id":5544,
+"text":"Hello to you too."
+}
+]
