@@ -1,0 +1,48 @@
+{
+"timestamp":"14/10/2018 21:25:36", "company":"20th century fox", "genre":"action", "employees":[443, 444, 445], "company_founded_date":"23/09/1915", "movie_every":"month",
+"movies":
+[{"movie_id":110, 
+"film_name":"Action Now!",
+"film_location":"Hollywood", 
+"tagline":"Action is in our blood", 
+"premiere_time":"14/10/2018 19:24",
+"director_id":410, 
+"poll_results":{"amazing":{"count":2, "by_viewers":[500, 501]}, "good":{"count":1, "by_users":[502]}, "ok":{"count":4, "by_users":[530, 531, 532, 533]}, "bad":{"count":1, "by_users":[534]}, "so so":{"count":1, "by_users":[535]}, "terrible":{"count":0, "by_users":[]}},
+"review_count":1,
+"on_dvd":false,
+"box_office":56000000,
+"premiere_cinema_location":[35.27443, 42.37345],
+"reviews":[{"review_id":900, "publish_time":"14/10/2018 10:22:55", "review_text":"Terrible movie, not suitable for anyone at all, I would like to have my money back.", "reviewer_id":450, "agree":15, "replies":
+[{"comment_id":70756890529302325, "publish_time":"14/10/2018 21:41:41", "comment_text":"I agree", "commenter_id":545}, {"comment_id":20345890529302325, "publish_time":"14/10/2018 20:41:11", "comment_text":"I do not agree!", "commenter_id":547}],
+"highest_grossing_list_location":34,
+"status":"finished",
+"tags":["action", "fight"],
+"actor_names":["Vin Deesle", "Penelope Cruz"]}]},
+
+{"movie_id":110, 
+"film_name":"Love Town",
+"film_location":"Bollywood", 
+"tagline":"When everybody loves each other", 
+"premiere_time":"14/10/2017 20:00",
+"director_id":411, 
+"poll_results":{"amazing":{"count":0, "by_viewers":[]}, "good":{"count":1, "by_users":[502]}, "ok":{"count":3, "by_users":[537, 538, 539]}, "bad":{"count":0, "by_users":[]}, "so so":{"count":1, "by_users":[541]}, "terrible":{"count":0, "by_users":[]}},
+"review_count":1,
+"on_dvd":true,
+"box_office":11050000,
+"premiere_cinema_location":[30.27443, 40.37345],
+"reviews":[{"review_id":901, "publish_time":"15/10/2017 10:22:55", "review_text":"I think it was good", "reviewer_id":450, "agree":10, "replies":[],
+"highest_grossing_list_location":142,
+"status":"finished",
+"tags":["drama", "love"],
+"actor_names":["Zoey Dechanell", "Jennifer Lewrance"]}]}
+],
+"people":
+[
+{"person_id":443, "first_name":"Steve", "last_name":"Brice", "gender":"male", "birthday":"24/11/1985", "birth_place":"New York"},
+{"person_id":410, "first_name":"James", "last_name":"Fox", "gender":"male", "birthday":"24/11/1981", "birth_place":"Boston"},
+{"person_id":411, "first_name":"Fransis", "last_name":"Bonbon", "gender":"male", "birthday":"24/11/1982", "birth_place":"Paris"},
+{"person_id":450, "first_name":"Brook", "last_name":"Brown", "gender":"female", "birthday":"22/01/1996", "birth_place":"Beverly Hills"},
+{"person_id":500, "first_name":"Kayle", "last_name":"Black", "gender":"male", "birthday":"23/12/1945", "birth_place":"Dallas"},
+{"person_id":501, "first_name":"Brian", "last_name":"Smith", "gender":"male", "birthday":"20/02/1999", "birth_place":"Hueston"}
+]
+}
